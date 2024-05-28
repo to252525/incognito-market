@@ -10,6 +10,8 @@ http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion
 
 <a href="http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion"><img src="/assets/incognito-preview.webp" alt="image" style="max-width: 100%;"><a>
 
+This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
+
 ## About Incognito Market
 Incognito Market is a darknet market created by the Incognite team. It is our most ambitious project to date. We prioritise user safety, security and customer service, while offering a feature-rich interface that supports two popular cryptocurrencies for darknet transactions: Bitcoin and Monero. We keep adding new features to make your experience the best it can be.
 
